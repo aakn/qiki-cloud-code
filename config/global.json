@@ -6,6 +6,13 @@
         "qiki": {
             "applicationId": "KlERRhzAFJWZ0nn3K7fXvqmeWXUBb3uj0Ek93C11", 
             "masterKey": "792Fxua1ZZ9Ysl8n4EM3y4xC8EdmZEqAgxrdPTkR"
+        }, 
+        "qiki-production": {
+            "applicationId": "UXhnmtCN1k0ktrEg26tUvfh6nGZPk7n4dkzDEBqP", 
+            "masterKey": "9iiKVUIju43hOxNCDQlJWKkwspKYiX5pjnJQij86"
         }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
     }
 }
