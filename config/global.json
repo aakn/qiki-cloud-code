@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "qiki"
+        }, 
+        "qiki": {
+            "applicationId": "KlERRhzAFJWZ0nn3K7fXvqmeWXUBb3uj0Ek93C11", 
+            "masterKey": "792Fxua1ZZ9Ysl8n4EM3y4xC8EdmZEqAgxrdPTkR"
+        }
+    }
+}
